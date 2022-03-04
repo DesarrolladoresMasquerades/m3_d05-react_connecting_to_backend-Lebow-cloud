@@ -6,6 +6,7 @@ function Navbar() {
       <NavLink to="/">
         <button>Home</button>
       </NavLink>
+      
     </nav>
   );
 }
